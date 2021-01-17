@@ -1,0 +1,21 @@
+.tuba{
+  max-width:250px;
+    width: auto;
+    height: auto;
+}
+.miniatura{max-height:250px;
+  width: auto;
+  height: auto;
+}
+.div{
+  background: -webkit-gradient(linear, left top, right bottom, from(yellow), to(lightyellow)) fixed;
+}
+.div2{
+  background: -webkit-gradient(linear, left top, right bottom, from(lightgray), to(white)) fixed;
+}
+.div3{
+  background: -webkit-gradient(linear, left top, right bottom, from(white), to(violet)) fixed;
+}
+.div4{
+  background: -webkit-gradient(linear, left top, right bottom, from(lightgray), to(black)) fixed;
+}

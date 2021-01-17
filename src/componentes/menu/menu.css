@@ -1,0 +1,13 @@
+nav{
+  padding: 20px;
+  background: -webkit-gradient(linear, left top, right bottom, from(lightpink), to(lightskyblue)) fixed;
+  border-radius: 7px;
+
+}
+
+nav a {
+  color: black;
+  color-background:black;
+  text-decoration: none;
+  padding: 20px;
+}

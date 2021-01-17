@@ -1,0 +1,32 @@
+aside {background:black; 
+  margin:1px;
+  float:left;
+  padding:100px;}
+  .quem {
+    color:rgb(255, 202, 210);
+    float: left;
+  }
+s{color:rgb(255, 202, 210)}
+#kae {width:200px}
+#chama {
+  font-family: 'OCR A Std';
+  font-variant:monospace;
+  font-weight: 530;
+  font-size: 19px;
+  color:pink;}
+
+table{
+  float:left;
+  margin:22px;
+  background-image: url("https://2.bp.blogspot.com/-PP49IAh18jg/XDa21F0oMxI/AAAAAAAAAfE/TjFKJIMYAowBQgcocNLOrQlXYOtfRkV-ACLcBGAs/s1600/IMG_0502.png");
+}
+#esquerda{
+text-align: left;
+}
+#direita{
+text-align: right;
+}
+.justificado{
+  text-align:justify;
+}
+
